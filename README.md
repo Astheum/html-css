@@ -6,6 +6,7 @@ Astheum.dev@gmail.com
 
 ou
 
-Github > <a href="https://github.com/Astheum">
+Github > <a href="https://github.com/Astheum" target="_blank">
+Portfólio Github > <a href="https://astheum.github.io/html-css/" target="_blank">
 Twitter >
 Instagram >
