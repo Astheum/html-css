@@ -17,6 +17,5 @@ Instagram >
 
 <h1> Meus projetos </h1>
 <h3><a href="https://astheum.github.io/projeto-android/">Projeto android</a></h3>
-
 <br>
 <img src="https://qr-codes-svg.s3.amazonaws.com/Ydtv9k.svg?1669559042317" width="200" height="200" />
