@@ -18,3 +18,4 @@ Instagram >
 <h1> Meus projetos </h1>
 
 <a href="https://astheum.github.io/projeto-android/">Projeto android</a>
+<img src="QrAndroid.png"
