@@ -15,6 +15,6 @@ Instagram >
 
 
 <h1> Meus projetos </h1>
-<div float="left">
-    <h3><a href="https://astheum.github.io/projeto-android/" target="_blank">Projeto android</a></h3> <h3><a href="https://astheum.github.io/projeto-cordel-moderno/" target="_blank">Projeto Cordel Moderno</a></h3>
-    <img src="QRandroid.png" width="200" height="200"/> <img src="QRcordel-moderno.png" width="200" height="200" />
+<h3 display="inline-block"><a href="https://astheum.github.io/projeto-android/" target="_blank">Projeto android</a></h3> <h3 display="inline-block"><a href="https://astheum.github.io/projeto-cordel-moderno/" target="_blank">Projeto Cordel Moderno</a></h3>
+
+<img src="QRandroid.png" width="200" height="200"/> <img src="QRcordel-moderno.png" width="200" height="200" />
