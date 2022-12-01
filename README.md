@@ -21,3 +21,6 @@ Instagram >
 
 <h3 display="inline-block"><a href="https://astheum.github.io/projeto-cordel-moderno/" target="_blank">Projeto Cordel Moderno</a></h3>
 <img src="QRcordel-moderno.png" width="200" height="200" />
+
+<h3 display="inline-block"><a href="https://astheum.github.io/projeto-cordel-moderno/" target="_blank">Landing Page Lologo</a></h3>
+<img src="QRlologo.png" width="200" height="200" />
