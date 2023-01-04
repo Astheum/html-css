@@ -20,10 +20,10 @@ Instagram >
 <img src="QRAndroid.jpg" width="200" height="200"/>
 
 <h3 display="inline-block"><a href="https://astheum.github.io/projeto-cordel-moderno/" target="_blank">Projeto Cordel Moderno</a></h3>
-<img src="QRCordel.jpg" width="200" height="200" />
+<img src="QRCordel.jpg" width="200" height="200"/>
 
 <h3 display="inline-block"><a href="https://astheum.github.io/Lologo-Landing-Page/" target="_blank">Landing Page Lologo</a></h3>
-<img src="QRLologo.jpg" width="200" height="200" />
+<img src="QRLologo.jpg" width="200" height="200"/>
 
 <h3 display="inline-block"><a href="https://astheum.github.io/projeto-social/" target="_blank">Projeto Redes Sociais</a></h3>
-<img src="QRLologo.jpg" width="200" height="200" />
+<img src="QRSocial.jpg" width="200" height="200"/>
