@@ -7,6 +7,10 @@
     padding: 0px;
 }
 
+::-webkit-scrollbar{
+    display: none;
+}
+
 body, html{
     background-color: lightgray;
 }
@@ -21,11 +25,11 @@ header h1 {
 }
 
 span#iconMenu{
+    display: block;
     background-color: rgb(46, 46, 46);
     color: white;
-    display: block;
     text-align: center;
-    padding: 5px;
+    padding: 10px;
     cursor: pointer;
 }
 
